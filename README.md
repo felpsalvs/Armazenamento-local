@@ -4,7 +4,7 @@
 
 ### 🔖 Sobre
 Projeto que usa a mesma lógica de um To Do, mas não com todas funcionalidades. Uso de eventos de cliques para alterar as marcações de cliques junto com adaptações no JSON.
-
+Teste aqui : https://armazenamento-local.vercel.app/ <br/>
 15/30 <br/>
 https://JavaScript30.com 
 
